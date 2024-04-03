@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "ABC Inc.",
+      "location": "New York, NY",
+      "description": "We are looking for a talented Frontend Developer to join our team.",
+      "url": "https://example.com/jobs/frontend-developer"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "XYZ Corp.",
+      "location": "San Francisco, CA",
+      "description": "Join our team as a Backend Developer and help us build scalable backend systems.",
+      "url": "https://example.com/jobs/backend-developer"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "company": "123 Designs",
+      "location": "Seattle, WA",
+      "description": "123 Designs is seeking a talented UI/UX Designer to create beautiful and intuitive user interfaces.",
+      "url": "https://example.com/jobs/ui-ux-designer"
+    }
+  ]
+  
